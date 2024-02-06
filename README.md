@@ -16,12 +16,12 @@ Neste arquivo, há várias funções relevantes para o estudo de desigualdade de
 Retorna o índice de gini para uma dada distribuição. Argumentos:
 - x: Vetor contendo a distribuição de renda, capital, riqueza, etc.
 - w: Vetor de pesos(por padrão, ele é um vetor de 1s)
-### Top_Aprop
+#### Top_Aprop
 Retorna a apropriação dos top x% de uma determinada distribuição. Argumentos:
 - x: Vetor contendo a distribuição de renda, capital, riqueza, etc.
 - w: Vetor de pesos(por padrão, ele é um vetor de 1s)
 - centile: Centil de corte.
-### Bottom_Aprop
+#### Bottom_Aprop
 Retorna a apropriação dos x% da cauda inferior de uma determinada distribuição. Argumentos:
 - x: Vetor contendo a distribuição de renda, capital, riqueza, etc.
 - w: Vetor de pesos(por padrão, ele é um vetor de 1s)
