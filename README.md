@@ -26,3 +26,5 @@ Retorna a apropriação dos x% da cauda inferior de uma determinada distribuiç�
 - x: Vetor contendo a distribuição de renda, capital, riqueza, etc.
 - w: Vetor de pesos(por padrão, ele é um vetor de 1s)
 - centile: Centil de corte.
+
+Podemos usar as duas funções acima para calcular o Palma Ratio.
